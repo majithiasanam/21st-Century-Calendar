@@ -1,0 +1,44 @@
+.calendar {
+    border: 2px solid #ffc800;
+    border-radius: 2vw;
+    background: radial-gradient(ellipse at center, #063a75 0%, #030617 100%);
+    padding: 2vw 1vw;
+}
+  
+.calendar-days {
+    margin: 0em;
+}
+
+.month-name {
+    margin: 0 1vw 2vw;
+    background: radial-gradient(ellipse at center, #9e7595 0%, #5d002f 100%);
+    border-radius: 2vw;
+    padding: 1vh;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+.month-name h2 {
+    font-weight: 800;
+    margin: auto;
+    color: #fffafa;
+    font-size: 4vw;
+}
+
+#dropdown-month, #dropdown-year {
+    margin: auto;
+    color: #fff;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.month-name .dropdown-menu {
+    max-height: 30vh;
+    overflow: auto;
+}
+
+.calendar-title {
+    color: #fff;
+    margin-right: 5em;
+    display: flex;
+}
