@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bb80df5.chunk.css",
+    "main.js": "/static/js/main.922341ca.chunk.js",
+    "main.js.map": "/static/js/main.922341ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.470b33ba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.470b33ba.js.map",
+    "static/js/2.9635763f.chunk.js": "/static/js/2.9635763f.chunk.js",
+    "static/js/2.9635763f.chunk.js.map": "/static/js/2.9635763f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4535f4e81911fe043601c2f123ef47e7.js": "/precache-manifest.4535f4e81911fe043601c2f123ef47e7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7bb80df5.chunk.css.map": "/static/css/main.7bb80df5.chunk.css.map",
+    "static/js/2.9635763f.chunk.js.LICENSE.txt": "/static/js/2.9635763f.chunk.js.LICENSE.txt",
+    "static/media/friday.svg": "/static/media/friday.664aa5d7.svg",
+    "static/media/monday.svg": "/static/media/monday.6af16566.svg",
+    "static/media/saturday.svg": "/static/media/saturday.64d0c4b5.svg",
+    "static/media/sunday.svg": "/static/media/sunday.0256b078.svg",
+    "static/media/thursday.svg": "/static/media/thursday.76a23e16.svg",
+    "static/media/tuesday.svg": "/static/media/tuesday.c5117fae.svg",
+    "static/media/wednesday.svg": "/static/media/wednesday.686bfb6b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.470b33ba.js",
+    "static/js/2.9635763f.chunk.js",
+    "static/css/main.7bb80df5.chunk.css",
+    "static/js/main.922341ca.chunk.js"
+  ]
+}
