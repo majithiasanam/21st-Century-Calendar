@@ -66,27 +66,11 @@ function Month() {
     let daysToShow = [];
     const now = new Date();
 
-    let [currentMonth, setCurrentMonth] = useState(0);
+    let [currentMonth, setCurrentMonth] = useState(now.getMonth());
     let [currentYear, setCurrentYear] = useState(now.getFullYear());
 
     const daysOfCurrentMonth = new Date(currentYear, currentMonth+1, 0).getDate();
     const firstDayOfCurrentMonth = new Date(currentYear, currentMonth, 1).getDay();
-    
-    // Check if current month does not start on a Sunday
-    // If so, add dummy tiles from last month
-    // if(firstDayOfMonth > 0) {
-    //   const daysOfPreviousMonth = (currentMonth===0) ? 31 : (new Date(currentYear, currentMonth-1, 0).getDate());
-    //   const dummyDaysArr = [...Array(firstDayOfMonth).keys()];
-    //   const numOfDummyDays = dummyDaysArr.length;
-    //   for(let index=firstDayOfMonth; index < ; index++) {
-    //     daysToShow.push( 
-    //       <Day data={daysOfWeek[firstDayOfMonth - Number(index)]} 
-    //             today={false} 
-    //             date={daysOfPreviousMonth-numOfDummyDays + Number(index) + 1}
-    //             key={daysOfWeek[index+1].name} />
-    //     );
-    //   }
-    // }
 
     let isToday,
         currentDate;
