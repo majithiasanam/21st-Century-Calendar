@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/21st-Century-Calendar/precache-manifest.64b1988c8134535ce0af49ffb8e429e7.js"
+  "/21st-Century-Calendar/precache-manifest.feb77d6154c218838d39d19b11dd1311.js"
 );
 
 self.addEventListener('message', (event) => {

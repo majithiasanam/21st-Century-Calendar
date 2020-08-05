@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "507e0c8c05eddeabb0200e250402de25",
+    "revision": "c6f3572ad307a3ad31103ec6693a8141",
     "url": "/21st-Century-Calendar/index.html"
   },
   {
-    "revision": "ab13e407ea45f0b162d0",
-    "url": "/21st-Century-Calendar/static/css/main.e2f29caa.chunk.css"
+    "revision": "557967d57c42583843c0",
+    "url": "/21st-Century-Calendar/static/css/main.6b9b0f2b.chunk.css"
   },
   {
     "revision": "40b4326ddf67469a2ce0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/21st-Century-Calendar/static/js/2.9635763f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab13e407ea45f0b162d0",
-    "url": "/21st-Century-Calendar/static/js/main.347b8442.chunk.js"
+    "revision": "557967d57c42583843c0",
+    "url": "/21st-Century-Calendar/static/js/main.cf9b7399.chunk.js"
   },
   {
     "revision": "5a20dac6a252dfec3b20",
