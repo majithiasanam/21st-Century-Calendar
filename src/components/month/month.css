@@ -30,6 +30,7 @@
     background-color: transparent;
     border: none;
     box-shadow: none;
+    font-size: 3vw;
 }
 
 .month-name .dropdown-menu {
