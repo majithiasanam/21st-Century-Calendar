@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/21st-Century-Calendar/static/css/main.7bb80df5.chunk.css",
+    "main.css": "/21st-Century-Calendar/static/css/main.e2f29caa.chunk.css",
     "main.js": "/21st-Century-Calendar/static/js/main.347b8442.chunk.js",
     "main.js.map": "/21st-Century-Calendar/static/js/main.347b8442.chunk.js.map",
     "runtime-main.js": "/21st-Century-Calendar/static/js/runtime-main.4b9c530f.js",
@@ -8,9 +8,9 @@
     "static/js/2.9635763f.chunk.js": "/21st-Century-Calendar/static/js/2.9635763f.chunk.js",
     "static/js/2.9635763f.chunk.js.map": "/21st-Century-Calendar/static/js/2.9635763f.chunk.js.map",
     "index.html": "/21st-Century-Calendar/index.html",
-    "precache-manifest.b3ad714db7d30fa6c4db667f092b2d96.js": "/21st-Century-Calendar/precache-manifest.b3ad714db7d30fa6c4db667f092b2d96.js",
+    "precache-manifest.64b1988c8134535ce0af49ffb8e429e7.js": "/21st-Century-Calendar/precache-manifest.64b1988c8134535ce0af49ffb8e429e7.js",
     "service-worker.js": "/21st-Century-Calendar/service-worker.js",
-    "static/css/main.7bb80df5.chunk.css.map": "/21st-Century-Calendar/static/css/main.7bb80df5.chunk.css.map",
+    "static/css/main.e2f29caa.chunk.css.map": "/21st-Century-Calendar/static/css/main.e2f29caa.chunk.css.map",
     "static/js/2.9635763f.chunk.js.LICENSE.txt": "/21st-Century-Calendar/static/js/2.9635763f.chunk.js.LICENSE.txt",
     "static/media/friday.svg": "/21st-Century-Calendar/static/media/friday.664aa5d7.svg",
     "static/media/monday.svg": "/21st-Century-Calendar/static/media/monday.6af16566.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.4b9c530f.js",
     "static/js/2.9635763f.chunk.js",
-    "static/css/main.7bb80df5.chunk.css",
+    "static/css/main.e2f29caa.chunk.css",
     "static/js/main.347b8442.chunk.js"
   ]
 }
